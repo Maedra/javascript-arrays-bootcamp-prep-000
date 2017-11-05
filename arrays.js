@@ -5,10 +5,10 @@ var chocolateBars = [
   'skittles'
 ]
 
-var tomatoSauceIngredients = [
-  'tomato',
-  'garlic',
-  'olive oil',
-  'basil',
-  'oregano'
-]
+function addElementToBeginningOfArray(array, element){
+  
+}
+
+function destructivelyAddElementToBeginningOfArray(array, element){
+  
+}
